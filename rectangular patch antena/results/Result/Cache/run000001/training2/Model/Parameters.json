@@ -1,0 +1,59 @@
+{
+    "parameters": [
+        {
+            "descr": "ground width",
+            "expr": "55",
+            "name": "sbx",
+            "value": "55"
+        },
+        {
+            "descr": "ground length",
+            "expr": "77",
+            "name": "sby",
+            "value": "77"
+        },
+        {
+            "descr": "copper thickness",
+            "expr": "0.035",
+            "name": "t",
+            "value": "0.035"
+        },
+        {
+            "descr": "substrate height",
+            "expr": "1.6",
+            "name": "sbh",
+            "value": "1.6"
+        },
+        {
+            "descr": "patch width",
+            "expr": "45",
+            "name": "px",
+            "value": "45"
+        },
+        {
+            "descr": "patch length",
+            "expr": "30",
+            "name": "py",
+            "value": "30"
+        },
+        {
+            "descr": "transmission line width",
+            "expr": "2.9",
+            "name": "trx",
+            "value": "2.9"
+        },
+        {
+            "descr": "inset width",
+            "expr": "2.9",
+            "name": "inx",
+            "value": "2.9"
+        },
+        {
+            "descr": "inset length",
+            "expr": "8",
+            "name": "iny",
+            "value": "8"
+        }
+    ],
+    "version": 1
+}
